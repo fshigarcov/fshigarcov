@@ -35,7 +35,7 @@
 <div>
   <img src="https://media.giphy.com/media/l378AwHQji6P57ASA/giphy.gif" width="25" align="left"/>
 <h3>React</h3>
- <li>In progress 85%</li>
+ <li>In progress 83%</li>
 </div>
 
 <div id="badges" align="center">
